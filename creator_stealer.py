@@ -1,5 +1,4 @@
 import yagmail
-import hackpy
 import colorama
 from termcolor import colored
 from os import system
