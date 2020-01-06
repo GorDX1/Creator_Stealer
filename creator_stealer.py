@@ -36,7 +36,7 @@ vr = """
 |                                                    |
 | [--] Created by: GorDX1                            |
 |                                                    |
-| [--] GitHub: https://github.com/GorDX              | 
+| [--] GitHub: https://github.com/GorDX1             | 
 |                                                    |
 | [--] Telegram channel: @XakerInfo                  |
 |                                                    |
